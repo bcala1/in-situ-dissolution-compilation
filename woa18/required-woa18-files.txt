@@ -1,0 +1,30 @@
+# salinity
+woa18_decav_s00_01.nc
+woa18_decav_s13_01.nc
+woa18_decav_s14_01.nc
+woa18_decav_s15_01.nc
+woa18_decav_s16_01.nc
+# temperature
+woa18_decav_t00_01.nc
+woa18_decav_t13_01.nc
+woa18_decav_t14_01.nc
+woa18_decav_t15_01.nc
+woa18_decav_t16_01.nc
+# dissolved oxygen
+woa18_all_o00_01.nc 
+woa18_all_o13_01.nc 
+woa18_all_o14_01.nc
+woa18_all_o15_01.nc
+woa18_all_o16_01.nc
+# silicate
+woa18_all_i00_01.nc
+woa18_all_i13_01.nc 
+woa18_all_i14_01.nc
+woa18_all_i15_01.nc 
+woa18_all_i16_01.nc
+# phosphate
+woa18_all_p00_01.nc 
+woa18_all_p13_01.nc 
+woa18_all_p14_01.nc 
+woa18_all_p15_01.nc
+woa18_all_р16_01.nc
